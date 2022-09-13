@@ -12,7 +12,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #17A2B8;
+    background: #292936;
     min-height: 100vh;
 }
 
@@ -67,7 +67,7 @@ body {
     margin-top: 20px;
     padding: 16px 0;
     cursor: pointer;
-    background: #17A2B8;
+    background: #292936;
     opacity: 0.6;
     pointer-events: none;
 }
